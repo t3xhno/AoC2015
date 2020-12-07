@@ -3,7 +3,7 @@ use std::fs;
 const FILE_NAME: &str = "dataset";
 
 fn main () {
-
+    
     let dataset: String = fs::read_to_string(FILE_NAME).expect("Something went wrong...");
 
     // PART 1
