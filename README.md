@@ -2,4 +2,4 @@
 
 My solutions to the Advent of Code 2015 problems.
 
-*Mainly in Rust.*
+*Mainly in **Rust**.*
