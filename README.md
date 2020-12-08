@@ -16,3 +16,11 @@ My solutions to the Advent of Code 2015 problems.
 | GitHub | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="60" width="auto"> |
 | --- | --- |
 | Just practicing getting my `MarkDown` down, too! | <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" height="60" width="auto"> |
+
+List of friends (proclaimed by me):
+
+| Link: | What are they good for? |
+| --- | --- |
+| 1. ![Elukej AKA Bludni](https://github.com/Bludni) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1280px-Haskell-Logo.svg.png" height="30" width="auto">
+<img src="https://seeklogo.com/images/D/dota-2-logo-A8CAC9B4C9-seeklogo.com.png" height="30" width="auto"> |
+| 2. ![The other guy](https://github.com/sheepy9) (![His read profile](https://github.com/arijanamigh)) | |
