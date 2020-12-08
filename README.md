@@ -21,5 +21,5 @@ List of friends (proclaimed by me):
 
 | Link: | What are they good for? |
 | --- | --- |
-| 1. [Elukej AKA Bludni](https://github.com/Bludni) | <p align="center"><img src="https://seeklogo.com/images/D/dota-2-logo-A8CAC9B4C9-seeklogo.com.png" height="60" width="auto"></p> |
+| 1. [Elukej AKA Bludni](https://github.com/Bludni) | <p align="center" valign="center"><img src="https://seeklogo.com/images/D/dota-2-logo-A8CAC9B4C9-seeklogo.com.png" height="60" width="auto"></p> |
 | 2. [The other guy](https://github.com/sheepy9) ([His real profile](https://github.com/arijanamigh)) | Not much... Nah, I got nothing. |
