@@ -4,4 +4,4 @@
 My solutions to the Advent of Code 2015 problems.
 
 *Mainly in **Rust**.*
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" height="35" width="auto">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" height="20" width="auto">
