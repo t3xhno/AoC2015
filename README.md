@@ -13,6 +13,6 @@ My solutions to the Advent of Code 2015 problems.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="30" width="auto">
 <img src="http://www.pngmart.com/files/7/Python-PNG-File.png" height="30" width="auto">)
 
-| # GitHub TABLE | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="60" width="auto"> |
+| GitHub | <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="60" width="auto"> |
 | --- | --- |
-| Hello :) | How are you? |
+| Just practicing getting my **MarkDown** down, too! | <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" height="60" width="auto"> |
